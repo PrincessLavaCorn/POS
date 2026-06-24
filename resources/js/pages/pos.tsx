@@ -1,8 +1,5 @@
-import AppSidebarLayout from '@/layouts/app/app-sidebar-layout';
 import { Head } from '@inertiajs/react';
-import * as React from 'react';
 
-// Import your custom UI primitives from their exact locations
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
